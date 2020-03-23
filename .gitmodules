@@ -1,0 +1,33 @@
+[submodule "ap-chapterproblems"]
+	path = ap-chapterproblems
+	url = https://github.com/shroysha/ap-chapterproblems.git
+[submodule "ap-pdfscrapper"]
+	path = ap-pdfscrapper
+	url = https://github.com/shroysha/ap-pdfscrapper.git
+[submodule "ap-pendulum"]
+	path = ap-pendulum
+	url = https://github.com/shroysha/ap-pendulum.git
+[submodule "ap-readability"]
+	path = ap-readability
+	url = https://github.com/shroysha/ap-readability.git
+[submodule "ap-robocode"]
+	path = ap-robocode
+	url = https://github.com/shroysha/ap-robocode.git
+[submodule "honors-firstquadrantgraph"]
+	path = honors-firstquadrantgraph
+	url = https://github.com/shroysha/honors-firstquadrantgraph.git
+[submodule "honors-graphing"]
+	path = honors-graphing
+	url = https://github.com/shroysha/honors-graphing.git
+[submodule "honors-jpaint"]
+	path = honors-jpaint
+	url = https://github.com/shroysha/honors-jpaint.git
+[submodule "honors-loopexamples"]
+	path = honors-loopexamples
+	url = https://github.com/shroysha/honors-loopexamples.git
+[submodule "psu-personal-site"]
+	path = psu-personal-site
+	url = https://github.com/shroysha/psu-personal-site.git
+[submodule "psu-sociology-site"]
+	path = psu-sociology-site
+	url = https://github.com/shroysha/psu-sociology-site.git
