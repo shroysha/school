@@ -1,5 +1,5 @@
 # school
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/archive/school](https://github.com/shroysha/shroysha.github.io/tree/master/archive/school)
+> see code: [https://github.com/shroysha/school](https://github.com/shroysha/school)
 
 ## Subprojects 
 1. [ap-chapterproblems](ap-chapterproblems)
