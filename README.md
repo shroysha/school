@@ -1,5 +1,4 @@
 # school
-{*> see code: [https://github.com/shroysha/school](https://github.com/shroysha/school)*}
 
 ## Subprojects 
 1. [ap-chapterproblems](https://github.com/shroysha/ap-chapterproblems)
