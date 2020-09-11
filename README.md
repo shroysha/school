@@ -14,7 +14,7 @@
 1. [psu-sociology-site](https://github.com/shroysha/psu-sociology-site)
 
 ## Description
-null
+My collection of schoolwork
 
 ### Tags
 []
